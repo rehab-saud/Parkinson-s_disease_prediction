@@ -20,6 +20,12 @@ Parkinson’s disease (PD) is one of the major public health diseases in the wor
 | MDVP:RAP | float64 | Measure of variation in fundamental frequency. |
 | MDVP:PPQ | float64 | Measure of variation in fundamental frequency. |
 | Jitter:DDP | float64 | Measure of variation in fundamental frequency. |
+| MDVP:Shimmer | float64 | Measures of variation in amplitude. |
+| MDVP:Shimmer(dB) | float64 | Measures of variation in amplitude. |
+| Shimmer:APQ3 | float64 | Measures of variation in amplitude. |
+| Shimmer:APQ5 | float64 | Measures of variation in amplitude. |
+| MDVP:APQ | float64 | Measures of variation in amplitude. |
+| Shimmer:DDA | float64 | Measures of variation in amplitude. |
 
 
 ## Technologies
