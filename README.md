@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Problem Statement](#Problem-Statement)
 - [Data Dictionary](#Data-Dictionay)
+- [Requirements](#Requirements)
 - [Technologies](#Technologies)
 - [Getting Started](#Getting-Started)
 
@@ -29,6 +30,10 @@ Parkinson’s disease (PD) is one of the major public health diseases in the wor
 | DFA | float64 | Signal fractal scaling exponent. |
 | spread1,spread2,PPE | float64 | Three nonlinear measures of fundamental frequency variation. | 
 
+## Requirements
+- Anaconda.
+- Jupyter Notebook.
+
 ## Technologies
 The project is created with:
 - Python.
@@ -41,3 +46,5 @@ The project is created with:
 ## Getting Started
 To run this project, intall it locally using git bash:
 1. Clone this repo (for help see this [tutorial](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)).
+2. Open the project in Jupyter notebook.
+3. Run the project.
