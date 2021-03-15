@@ -22,10 +22,14 @@ Parkinson’s disease (PD) is one of the major public health diseases in the wor
 | Jitter:DDP | float64 | Measure of variation in fundamental frequency. |
 | MDVP:Shimmer | float64 | Measures of variation in amplitude. |
 | MDVP:Shimmer(dB) | float64 | Measures of variation in amplitude. |
-| Shimmer:APQ3 | float64 | Measures of variation in amplitude. |
-| Shimmer:APQ5 | float64 | Measures of variation in amplitude. |
+| Shimmer:APQ3, Shimmer:APQ5 | float64 | Measures of variation in amplitude. |
 | MDVP:APQ | float64 | Measures of variation in amplitude. |
 | Shimmer:DDA | float64 | Measures of variation in amplitude. |
+| NHR, HNR | float64 | Measures of ratio of noise to tonal components in the voice. |
+| status | int64 | Health status of the subject (one) - Parkinson's, (zero) - healthy. |
+| RPDE, D2 | float64 | Nonlinear dynamical complexity measures. |
+| DFA | float64 | Signal fractal scaling exponent. |
+| spread1,spread2,PPE | float64 | Three nonlinear measures of fundamental frequency variation. | 
 
 
 ## Technologies
