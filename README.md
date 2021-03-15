@@ -10,7 +10,9 @@ Parkinson’s disease (PD) is one of the major public health diseases in the wor
 
 ## Data Dictionary
 | Column Name| Data Type | Description |
-| --- | --- | ---|
+| --- | --- | --- |
+| name | object | ASCII subject name and recording number. |
+| MDVP:Fo(Hz) | float64 | Average vocal fundamental frequency.|
 
 
 ## Technologies
