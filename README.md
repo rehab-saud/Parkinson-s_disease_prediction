@@ -15,13 +15,10 @@ Parkinson’s disease (PD) is one of the major public health diseases in the wor
 | MDVP:Fo(Hz) | float64 | Average vocal fundamental frequency.|
 | MDVP:Fhi(Hz) | float64 | Maximum vocal fundamental frequency. |
 | MDVP:Flo(Hz) | float64 | Minimum vocal fundamental frequency. |
-| MDVP:Jitter(%) | float64 | Measure of variation in fundamental frequency. |
-| MDVP:Jitter(Abs) | float64 | Measure of variation in fundamental frequency. |
-| MDVP:RAP | float64 | Measure of variation in fundamental frequency. |
-| MDVP:PPQ | float64 | Measure of variation in fundamental frequency. |
+| MDVP:Jitter(%), MDVP:Jitter(Abs) | float64 | Measure of variation in fundamental frequency. |
+| MDVP:RAP, MDVP:PPQ  | float64 | Measure of variation in fundamental frequency. |
 | Jitter:DDP | float64 | Measure of variation in fundamental frequency. |
-| MDVP:Shimmer | float64 | Measures of variation in amplitude. |
-| MDVP:Shimmer(dB) | float64 | Measures of variation in amplitude. |
+| MDVP:Shimmer, MDVP:Shimmer(dB) | float64 | Measures of variation in amplitude. |
 | Shimmer:APQ3, Shimmer:APQ5 | float64 | Measures of variation in amplitude. |
 | MDVP:APQ | float64 | Measures of variation in amplitude. |
 | Shimmer:DDA | float64 | Measures of variation in amplitude. |
